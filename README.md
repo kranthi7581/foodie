@@ -12,10 +12,6 @@
 
 ![Alt Text](https://github.com/kranthi7581/foodie/blob/main/foodie/screenshots/app.png)
 
-![Alt Text](https://github.com/kranthi7581/foodie/blob/main/foodie/screenshots/feedback.png)
-
-
-
 
 ---
 

@@ -6,7 +6,16 @@
 
 ## 🎥 Demo
 
-![Foodie Demo]()
+![Alt Text](https://github.com/kranthi7581/foodie/blob/main/foodie/screenshots/header.png)
+
+![Alt Text](https://github.com/kranthi7581/foodie/blob/main/foodie/screenshots/featch_json_data.png)
+
+![Alt Text](https://github.com/kranthi7581/foodie/blob/main/foodie/screenshots/app.png)
+
+![Alt Text](https://github.com/kranthi7581/foodie/blob/main/foodie/screenshots/feedback.png)
+
+
+
 
 ---
 
